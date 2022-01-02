@@ -1,8 +1,5 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning web devlopment!
-- 👯 I’m looking to collaborate on monetisable projects!
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: liew.yew.loong.jefferson@gmail.com
+- 👋 Hi, I’m @jefferson-liew
+- 👀 I’m interested in building purposeful and scalable projects
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on monetisable projects
+- 📫 Reach me at liew.yew.loong.jefferson@gmail.com
