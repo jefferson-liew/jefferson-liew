@@ -2,4 +2,4 @@
 - 👀 I’m interested in building purposeful and scalable projects
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on monetisable projects
-- 📫 Reach me at liew.yew.loong.jefferson@gmail.com
+- 📫 Reach me at hello@jeffersonliew.com
